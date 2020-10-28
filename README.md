@@ -1,4 +1,4 @@
-## Hello! I'm Karol, self-taught web developer
+## Hello! I'm Karol, Front End Developer
 
 <p>I've been a Web Developer for 2 years. I've focused on <strong>Front End</strong> development (mainly <strong>React</strong>), but other technologies such as: HTML, CSS/SCSS, JavaScript have also been used. Currently I'm looking for a <strong>Junior Front End Developer</strong> position. Feel free to contact with me!</p>
 
