@@ -1,6 +1,6 @@
 ## Hello! I'm Karol, self-taught web developer
 
-<p>I've been a self-taught web developer for 2 years. I've focused on <strong>front-end</strong> development, mainly in <strong>React</strong>, but other technologies have also been used. Currently I'm looking for a <strong>Junior Front-end Developer</strong> position. Feel free to contact with me!</p>
+<p>I've been a Web Developer for 2 years. I've focused on <strong>Front End</strong> development (mainly <strong>React</strong>), but other technologies such as: HTML, CSS/SCSS, JavaScript have also been used. Currently I'm looking for a <strong>Junior Front End Developer</strong> position. Feel free to contact with me!</p>
 
 ### Let's stay in touch:
 
