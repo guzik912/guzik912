@@ -1,6 +1,6 @@
 ## Hello! I'm Karol, Full Stack Developer
 
-<p>An ambitious and passionate Full Stack Developer with a broad range of skills acquired in Web Development. Currently working on my own projects. Looking for a <strong>Full Stack Developer</strong> position. Feel free to contact with me!</p>
+<p>An ambitious and passionate Full Stack Developer with a broad range of skills acquired in Web Development. Currently working on my own projects. Looking for an entry-level <strong>Full Stack Developer</strong> position. Feel free to contact with me!</p>
 
 ### Let's stay in touch:
 
