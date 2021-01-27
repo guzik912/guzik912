@@ -1,6 +1,6 @@
-## Hello! I'm Karol, Front End Developer
+## Hello! I'm Karol, Full Stack Developer
 
-<p>I've been a Web Developer for 2 years. I've focused on <strong>Front End</strong> development (mainly <strong>React</strong>), but other technologies such as: HTML, CSS/SCSS, JavaScript have also been used. Currently I'm looking for a <strong>Junior Front End Developer</strong> position. Feel free to contact with me!</p>
+<p>An ambitious and passionate Full Stack Developer with a broad range of skills acquired in Web Development. Currently working on my own projects. Looking for a <strong>Full Stack Developer</strong> position. Feel free to contact with me!</p>
 
 ### Let's stay in touch:
 
@@ -15,6 +15,6 @@
 <br />
 <br />
 
-[linkedin]: https://www.linkedin.com/in/karol-guzik-45543a1b9/
+[linkedin]: https://www.linkedin.com/in/karolguzik/
 [twitter]: https://twitter.com/guzik_karol
-[portfolio]: https://distracted-curran-f6a38a.netlify.app/
+[portfolio]: https://www.karolguzik.com
