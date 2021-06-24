@@ -1,6 +1,6 @@
 ## Hello! I'm Karol!
 
-<p>I am ambitious and passionate Junior Node.js Developer @ [Netguru][netguru]</p>
+<p>I am ambitious and passionate Junior Node.js Developer @ Netguru</p>
 
 ### Let's stay in touch:
 
@@ -13,5 +13,4 @@
 
 [linkedin]: https://www.linkedin.com/in/karolguzik/
 [twitter]: https://twitter.com/guzik_karol
-[netguru]: https://netguru.com
 
